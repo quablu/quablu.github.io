@@ -1,0 +1,26 @@
+{
+    "status": [
+       {
+            "id": "xCu-Room2",
+            "pin16": "1-Button1",
+            "pin05": "0-Button2",
+            "pin04": "1-Button3",
+            "pin00": "0-Button4"
+        },
+         {
+            "id": "NM2-Room1",
+            "pin16": "0-Button1",
+            "pin05": "1-Button2",
+            "pin04": "1-Button3",
+            "pin00": "1-Button4",
+            "lastseen": "Tue Jan 10, 2017 11:15:13 AM"
+        },
+        {
+            "id": "42u-Room3",
+            "pin16": "0-Button1",
+            "pin05": "0-Button2",
+            "pin04": "1-Button3",
+            "pin00": "0-Button4"
+        }
+    ]
+}
